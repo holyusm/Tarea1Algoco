@@ -1,0 +1,5 @@
+﻿Algoritmos,Desordenada,Ascendente,Descendente,Semi Ordenada,Valores Repetidos,Valores Alternados
+InsertionSort,14272,0,28533,1851,12926,14163
+MergeSort,55,48,46,49,52,48
+QuickSort,25,18,18,20,5904,20
+Sort,23,13,10,16,18,17
